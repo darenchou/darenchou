@@ -1,0 +1,193 @@
+body {
+	background-image: linear-gradient(to left, darkblue, teal);
+	background-color: #0F5FFE;
+	color: orange;
+}
+h1 {
+	font-size: 80px;
+	font-family: Mansalva;
+	text-align: center
+}
+
+
+ h2 {
+	text-align: center;
+	font-family: 'Mansalva', cursive;
+	font-size: 30px
+}
+
+p{
+	text-align: auto;
+	font-family: Mansalva;
+	font-size: 25px;
+}
+
+ul{
+	list-style-type: none;
+	font-family: Mansalva;
+	margin: 0;
+	padding: 0;
+	/* width: 200px; */
+	background-color: blue;
+	overflow: hidden;
+	position:fixed;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: orange;
+	padding: 8px 16px;
+	text-decoration: none;
+	text-align: center;
+	font-size:25px;
+}
+li a:hover {
+	background-color:violet;
+	color: yellow;
+}
+
+.active{
+	background-color:purple;
+}
+
+div {
+    text-align: justify;
+}
+
+div img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+div:after {
+	content: '';
+    width: 100%;
+    display: inline-block;
+}
+
+.sur{
+	height: 300px;
+	width: 400px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+
+.ny{
+	height: 300px;
+	width: 400px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.line{
+	height: 500px;
+	width: 400px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.sjsu{
+	height: 500px;
+	width: 400px;
+	margin-top: 100px; 
+	margin-right:75px;
+	border-radius: 0px;
+	border-color:white;
+}
+
+.street{
+	height: 400px;
+	width: 300px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.window{
+	height: 400px;
+	width: 300px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.hk{
+	height: 400px;
+	width: 300px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.circle{
+	height: 400px;
+	width: 300px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.mountain{
+	height: 400px;
+	width: 600px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.bali{
+	height: 400px;
+	width: 600px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.shadow{
+	height: 400px;
+	width: 600px;
+	margin-top: 100px; 
+	margin-left:75px;
+	border-radius: 0px;
+	border-color:white;
+}
+
+
+.prague{
+	height: 500px;
+	width: 400px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.door{
+	height: 500px;
+	width: 400px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.hall{
+	height: 500px;
+	width: 400px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.mirror{
+	height: 600px;
+	width: 500px;
+	margin-top: 100px; 
+	border-radius: 0px;
+	border-color:white;
+}

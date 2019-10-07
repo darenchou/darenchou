@@ -1,0 +1,96 @@
+body {
+	background-image: linear-gradient(to left, darkblue, teal);
+	background-color: #0F5FFE;
+	color: orange;
+}
+h1 {
+	font-size: 80px;
+	font-family: Mansalva;
+	text-align: center
+}
+
+
+ h2 {
+	text-align: center;
+	font-family: 'Mansalva', cursive;
+	font-size: 30px
+}
+
+p{
+	text-align: center;
+	font-family: Mansalva;
+	font-size: 30px;
+	color:orange
+}
+
+p:hover {
+	color: yellow;
+}
+
+a {
+text-decoration: none;
+}
+
+
+.houston{
+	height: 700px;
+	width: 500px;
+	margin-top: 75px; 
+	border-radius: 0px;
+	border-color:white;
+}
+
+.korea{
+	height: 700px;
+	width: 500px;
+	margin-top: 75px; 
+	border-radius: 0px;
+	border-color:white
+}
+
+.half{
+	height: 700px;
+	width: 500px;
+	margin-top: 75px; 
+	border-radius: 0px;
+	border-color:white
+}
+
+.hk{
+	height: 700px;
+	width: 500px;
+	margin-top: 75px; 
+	border-radius: 0px;
+	border-color:white
+}
+
+ul{
+	list-style-type: none;
+	font-family: Mansalva;
+	margin: 0;
+	padding: 0;
+	/* width: 200px; */
+	background-color: blue;
+	overflow: hidden;
+	position:fixed;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: orange;
+	padding: 8px 16px;
+	text-decoration: none;
+	text-align: center;
+	font-size:25px;
+}
+li a:hover {
+	background-color:violet;
+	color: yellow;
+}
+
+.active{
+	background-color:purple;
+}
+

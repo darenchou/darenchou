@@ -1,0 +1,113 @@
+body {
+	background-image: linear-gradient(to left, darkblue, teal);
+	background-color: #0F5FFE;
+	color: orange;
+}
+h1 {
+	font-size: 80px;
+	font-family: Mansalva;
+	text-align: center
+}
+
+
+ h2 {
+	text-align: center;
+	font-family: 'Mansalva', cursive;
+	font-size: 30px
+}
+
+p{
+	text-align: auto;
+	font-family: Mansalva;
+	font-size: 30px;
+	position:relative;
+	bottom:90px;
+}
+
+
+
+.houston{
+	height: 600px;
+	width: 400px;
+	margin-top: 75px; 
+	margin-bottom:75px;
+	margin-left:75px;
+	border-radius: 0px;
+	border-color:white;
+}
+
+.mex{
+	height: 600px;
+	width: 400px;
+	margin-top: 75px; 
+	margin-bottom:75px;
+	margin-right:75px;
+	border-radius: 0px;
+	border-color:white;
+}
+
+.austin{
+	height: 600px;
+	width: 400px;
+	margin-top: 75px; 
+	margin-bottom:75px;
+	margin-right:75px;
+	border-radius: 0px;
+	border-color:white;
+}
+
+.denver{
+	height: 600px;
+	width: 400px;
+	margin-top: 75px; 
+	margin-bottom:75px;
+	margin-left:75px;
+	border-radius: 0px;
+	border-color:white;
+}
+
+ul{
+	list-style-type: none;
+	font-family: Mansalva;
+	margin: 0;
+	padding: 0;
+	/* width: 200px; */
+	background-color: blue;
+	overflow: hidden;
+	position:fixed;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: orange;
+	padding: 8px 16px;
+	text-decoration: none;
+	text-align: center;
+	font-size:25px;
+}
+li a:hover {
+	background-color:violet;
+	color: yellow;
+}
+
+.active{
+	background-color:purple;
+}
+
+div {
+    text-align: justify;
+}
+
+div img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+div:after {
+	content: '';
+    width: 100%;
+    display: inline-block;
+}
