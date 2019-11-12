@@ -354,9 +354,8 @@ footer a {
   }
 }
 
-@media (max-width: 300px) {
 
-}
+
 @media all and (max-width: 350px) {
   #divider3 {
     display: none;
@@ -432,7 +431,7 @@ footer a {
   }
 
   #home h1 {
-    font-size: 3em;
+    font-size: 2em;
   }
 }
 @media all and (min-width: 1050px) {
