@@ -381,7 +381,7 @@ footer a {
     padding-top: 60px;
     max-width: 200px;
   }
-  
+
 }
 @media all and (min-width: 720px) {
   .item {
@@ -429,7 +429,7 @@ footer a {
   }
 
   #home h1 {
-    font-size: 3em;
+    font-size: 14px;
   }
 }
 @media all and (min-width: 1050px) {
