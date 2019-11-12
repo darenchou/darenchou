@@ -427,10 +427,6 @@ footer a {
     line-height: 1em;
     box-shadow: none;
   }
-
-  #home h1 {
-    font-size: 9px;
-  }
 }
 @media all and (min-width: 1050px) {
   #about span.container {
