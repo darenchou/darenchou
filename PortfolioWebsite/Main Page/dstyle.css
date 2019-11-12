@@ -458,6 +458,6 @@ footer a {
     flex-shrink: 0;
     height: 306px;
     width: 306px;
-    margin-right: 50px;
+    align-items: center;
   }
 }
