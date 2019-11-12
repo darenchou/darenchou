@@ -431,7 +431,7 @@ footer a {
   }
 
   #home h1 {
-    font-size: 14px
+    font-size: 3.4em;
   }
 }
 @media all and (min-width: 1050px) {
