@@ -139,6 +139,10 @@ h2 {
   margin-bottom: 70px;
 }
 
+#home h1 {
+  font-size: 4em;
+}
+
 
 #about {
   color: #010101 
