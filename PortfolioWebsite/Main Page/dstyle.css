@@ -140,7 +140,7 @@ h2 {
 }
 
 #home h1 {
-  font-size: 14px;
+  font-size: 4em;
 }
 
 
@@ -428,6 +428,10 @@ footer a {
     margin: 0;
     line-height: 1em;
     box-shadow: none;
+  }
+
+  #home h1 {
+    font-size: 14px
   }
 }
 @media all and (min-width: 1050px) {
