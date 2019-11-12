@@ -107,7 +107,7 @@ header #container ul {
 h1 {
   margin-top: 100px;
   margin-bottom: 30px;
-  font-size: 4em;
+  font-size: 3.5em;
   font-family: "Raleway", sans-serif;
   letter-spacing: 0.05em;
 
@@ -415,7 +415,7 @@ footer a {
     max-width: 1000px;
   }
   header #container #name {
-    font-size: 1.85em;
+    font-size: 1.50em;
   }
   header #container #nav {
     display: flex;
