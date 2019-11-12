@@ -186,29 +186,29 @@ h2 {
 
 
 .tahoe{
-  height: 450px;
-  width: 700px;
+  height: 650px;
+  width: 900px;
   border-radius: 0px;
   border-color:white;
 }
 
 .lights{
-  height: 450px;
-  width: 700px;
+  height: 650px;
+  width: 900px;
   border-radius: 0px;
   border-color:white;
 }
 
 .dance1{
-  height: 500px;
-  width: 700px;
+  height: 650px;
+  width: 900px;
   border-radius: 0px;
   border-color:white;
 }
 
 .glass{
-  height: 450px;
-  width: 700px;
+  height: 650px;
+  width: 900px;
   border-radius: 0px;
   border-color:white;
 }
@@ -295,6 +295,7 @@ a, a:visited {
   font-size: 3.5em;
   margin-top: 5px;
   margin-bottom: 60px;
+  color: #000000;
 }
 #contact .social-links {
   display: flex !important;
