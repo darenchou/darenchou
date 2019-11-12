@@ -415,7 +415,7 @@ footer a {
     max-width: 1000px;
   }
   header #container #name {
-    font-size: 1.50em;
+    font-size: 1.85em;
   }
   header #container #nav {
     display: flex;
@@ -428,7 +428,7 @@ footer a {
   }
 
   #home h1 {
-    font-size: 2em;
+    font-size: 3em;
   }
 }
 @media all and (min-width: 1050px) {
@@ -446,18 +446,5 @@ footer a {
   }
   #about span.container span.text-container {
     max-width: 600px;
-  }
-  @media all and (min-width: 1050px) {
-  #profile span.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-  }
-  #about span.container img {
-    flex-shrink: 0;
-    height: 306px;
-    width: 306px;
-    align-items: center;
   }
 }
