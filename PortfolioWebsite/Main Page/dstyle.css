@@ -447,4 +447,17 @@ footer a {
   #about span.container span.text-container {
     max-width: 600px;
   }
+  @media all and (min-width: 1050px) {
+  #profile span.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+  #about span.container img {
+    flex-shrink: 0;
+    height: 306px;
+    width: 306px;
+    margin-right: 50px;
+  }
 }
