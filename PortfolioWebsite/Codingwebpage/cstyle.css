@@ -187,15 +187,21 @@ h2 {
 
 
 .horizontal{
-  height: 600px;
+  height: 550px;
   width: 900px;
   border-radius: 0px;
   border-color:white;
 }
 
-.vertical{
-  height: 800px;
-  width: 600px;
+#portfolio iframe{
+  align-content: center;
+   height: 400px;
+  width: 700px;
+  margin-bottom: 0px;
+}
+.horizontal2{
+  height: 600px;
+  width: 900px;
   border-radius: 0px;
   border-color:white;
 }
