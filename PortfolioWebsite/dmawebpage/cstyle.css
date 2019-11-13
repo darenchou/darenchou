@@ -187,7 +187,7 @@ h2 {
 
 
 .horizontal{
-  height: 400px;
+  height: 425px;
   width: 700px;
   border-radius: 0px;
   border-color:white;
@@ -195,7 +195,7 @@ h2 {
 
 #portfolio iframe{
   align-content: center;
-   height: 400px;
+   height: 425px;
   width: 700px;
   margin-bottom: 0px;
 }
