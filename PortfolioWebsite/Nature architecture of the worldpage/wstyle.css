@@ -190,6 +190,9 @@ h2 {
   width: 900px;
   border-radius: 0px;
   border-color:white;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
 }
 
 .lights{
