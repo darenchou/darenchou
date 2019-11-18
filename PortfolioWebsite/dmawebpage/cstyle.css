@@ -195,15 +195,17 @@ h2 {
 
 #portfolio iframe{
   align-content: center;
-   height: 425px;
+  height: 425px;
   width: 700px;
   margin-bottom: 0px;
+  max-width: 100%;
 }
 .horizontal2{
   height: 600px;
   width: 900px;
   border-radius: 0px;
   border-color:white;
+  max-width: 100%;
 }
 
 .sf{
